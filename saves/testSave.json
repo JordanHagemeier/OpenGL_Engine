@@ -1,0 +1,275 @@
+{
+    "gameObjectsInManager": [
+        {
+            "GameObjectName": "CubeB_GO",
+            "components": [
+                {
+                    "CubeTestValue": 0.10000000149011612,
+                    "componentType": 1
+                },
+                {
+                    "MeshType": 3,
+                    "PrimitiveInformation": {
+                        "donutPoints": 0,
+                        "donutRadius": 0.0,
+                        "points": 0,
+                        "position.x": 0.0,
+                        "position.y": 0.0,
+                        "position.z": 0.0,
+                        "radius": 1.0,
+                        "ringThickness": 0.0
+                    },
+                    "ShaderID": 32,
+                    "ShaderName": "defaultShaderIdentifier",
+                    "Textures": [
+                        {
+                            "Texture0": "container"
+                        },
+                        {
+                            "Texture1": "awesomeface"
+                        }
+                    ],
+                    "componentType": 0
+                }
+            ],
+            "rotation.x": 0.0,
+            "rotation.y": 1.0,
+            "rotation.z": 0.0,
+            "rotationAngle": 0.0,
+            "scale.x": 1.0,
+            "scale.y": 1.0,
+            "scale.z": 1.0,
+            "transform.x": -0.177657812833786,
+            "transform.y": -3.9960527420043945,
+            "transform.z": 0.0
+        },
+        {
+            "GameObjectName": "Donut",
+            "components": [
+                {
+                    "MeshType": 2,
+                    "PrimitiveInformation": {
+                        "donutPoints": 10,
+                        "donutRadius": 1.0,
+                        "points": 20,
+                        "position.x": 0.0,
+                        "position.y": 0.0,
+                        "position.z": 0.0,
+                        "radius": 5.0,
+                        "ringThickness": 0.0
+                    },
+                    "ShaderID": 4,
+                    "ShaderName": "Shader1",
+                    "Textures": [],
+                    "componentType": 0
+                }
+            ],
+            "rotation.x": 0.0,
+            "rotation.y": 1.0,
+            "rotation.z": 0.0,
+            "rotationAngle": 0.0,
+            "scale.x": 1.0,
+            "scale.y": 1.0,
+            "scale.z": 1.0,
+            "transform.x": 0.0,
+            "transform.y": 0.0,
+            "transform.z": 0.0
+        },
+        {
+            "GameObjectName": "TexturedCube",
+            "components": [
+                {
+                    "MeshType": 3,
+                    "PrimitiveInformation": {
+                        "donutPoints": 0,
+                        "donutRadius": 0.0,
+                        "points": 0,
+                        "position.x": 0.0,
+                        "position.y": 0.0,
+                        "position.z": 0.0,
+                        "radius": 0.8999999761581421,
+                        "ringThickness": 0.0
+                    },
+                    "ShaderID": 8,
+                    "ShaderName": "Texturing_Shader",
+                    "Textures": [
+                        {
+                            "Texture0": "container"
+                        },
+                        {
+                            "Texture1": "awesomeface"
+                        }
+                    ],
+                    "componentType": 0
+                }
+            ],
+            "rotation.x": 0.0,
+            "rotation.y": 1.0,
+            "rotation.z": 0.0,
+            "rotationAngle": 0.0,
+            "scale.x": 1.0,
+            "scale.y": 1.0,
+            "scale.z": 1.0,
+            "transform.x": 0.0,
+            "transform.y": 0.0,
+            "transform.z": 0.0
+        },
+        {
+            "GameObjectName": "eObject",
+            "components": [
+                {
+                    "MeshType": 3,
+                    "PrimitiveInformation": {
+                        "donutPoints": 0,
+                        "donutRadius": 0.0,
+                        "points": 0,
+                        "position.x": 0.0,
+                        "position.y": 0.0,
+                        "position.z": 0.0,
+                        "radius": 0.8999999761581421,
+                        "ringThickness": 0.0
+                    },
+                    "ShaderID": 32,
+                    "ShaderName": "defaultShaderIdentifier",
+                    "Textures": [
+                        {
+                            "Texture0": "container"
+                        },
+                        {
+                            "Texture1": "awesomeface"
+                        }
+                    ],
+                    "componentType": 0
+                }
+            ],
+            "rotation.x": 0.0,
+            "rotation.y": 1.0,
+            "rotation.z": 0.0,
+            "rotationAngle": 0.0,
+            "scale.x": 1.0,
+            "scale.y": 1.0,
+            "scale.z": 1.0,
+            "transform.x": 0.0,
+            "transform.y": 2.759000062942505,
+            "transform.z": 0.0
+        },
+        {
+            "GameObjectName": "Object",
+            "components": [
+                {
+                    "MeshType": 3,
+                    "PrimitiveInformation": {
+                        "donutPoints": 0,
+                        "donutRadius": 0.0,
+                        "points": 0,
+                        "position.x": 0.0,
+                        "position.y": 0.0,
+                        "position.z": 0.0,
+                        "radius": 0.8999999761581421,
+                        "ringThickness": 0.0
+                    },
+                    "ShaderID": 32,
+                    "ShaderName": "defaultShaderIdentifier",
+                    "Textures": [
+                        {
+                            "Texture0": "container"
+                        },
+                        {
+                            "Texture1": "awesomeface"
+                        }
+                    ],
+                    "componentType": 0
+                }
+            ],
+            "rotation.x": 0.0,
+            "rotation.y": 1.0,
+            "rotation.z": 0.0,
+            "rotationAngle": 0.0,
+            "scale.x": 1.0,
+            "scale.y": 1.0,
+            "scale.z": 1.0,
+            "transform.x": 0.0,
+            "transform.y": 0.0,
+            "transform.z": 2.631999969482422
+        },
+        {
+            "GameObjectName": "bject",
+            "components": [
+                {
+                    "MeshType": 3,
+                    "PrimitiveInformation": {
+                        "donutPoints": 0,
+                        "donutRadius": 0.0,
+                        "points": 0,
+                        "position.x": 0.0,
+                        "position.y": 0.0,
+                        "position.z": 0.0,
+                        "radius": 0.8999999761581421,
+                        "ringThickness": 0.0
+                    },
+                    "ShaderID": 32,
+                    "ShaderName": "defaultShaderIdentifier",
+                    "Textures": [
+                        {
+                            "Texture0": "container"
+                        },
+                        {
+                            "Texture1": "awesomeface"
+                        }
+                    ],
+                    "componentType": 0
+                }
+            ],
+            "rotation.x": 0.0,
+            "rotation.y": 1.0,
+            "rotation.z": 0.0,
+            "rotationAngle": 0.0,
+            "scale.x": 1.0,
+            "scale.y": 1.0,
+            "scale.z": 1.0,
+            "transform.x": 0.0,
+            "transform.y": -4.182000160217285,
+            "transform.z": 0.0
+        },
+        {
+            "GameObjectName": "ject",
+            "components": [
+                {
+                    "MeshType": 3,
+                    "PrimitiveInformation": {
+                        "donutPoints": 0,
+                        "donutRadius": 0.0,
+                        "points": 0,
+                        "position.x": 0.0,
+                        "position.y": 0.0,
+                        "position.z": 0.0,
+                        "radius": 0.8999999761581421,
+                        "ringThickness": 0.0
+                    },
+                    "ShaderID": 32,
+                    "ShaderName": "defaultShaderIdentifier",
+                    "Textures": [
+                        {
+                            "Texture0": "container"
+                        },
+                        {
+                            "Texture1": "awesomeface"
+                        }
+                    ],
+                    "componentType": 0
+                }
+            ],
+            "rotation.x": 0.0,
+            "rotation.y": 1.0,
+            "rotation.z": 0.0,
+            "rotationAngle": 0.0,
+            "scale.x": 1.0,
+            "scale.y": 1.0,
+            "scale.z": 1.0,
+            "transform.x": 3.5850000381469727,
+            "transform.y": 0.0,
+            "transform.z": 0.0
+        }
+    ],
+    "hello": "world"
+}

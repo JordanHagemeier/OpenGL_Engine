@@ -1,0 +1,23 @@
+{
+    "LoadedTextures": [
+        {
+            "awesomeface": {
+                "Name": "awesomeface",
+                "Path": "images/awesomeface.png"
+            }
+        },
+        {
+            "container": {
+                "Name": "container",
+                "Path": "images/container.jpg"
+            }
+        },
+        {
+            "skybox": {
+                "Name": "skybox",
+                "Path": "images/skybox/skybox/"
+            }
+        }
+    ],
+    "hello": "world"
+}
